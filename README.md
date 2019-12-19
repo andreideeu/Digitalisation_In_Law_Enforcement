@@ -9,7 +9,7 @@ By implementing IoT through an NFC label, it will act as a bridge between the cl
 - Design and Build Application Backend (API's, Applications) with Apache Servers, Java, Python & SQL,
 - Implement design using Oracle cloud applications with OCI (VM’s, Virtual Networks, Autonomous DB’s, OIM, Blockchain).                                                                                                                                     
 
-## Articles
+## Articles   
 
 To read more about the project follow:   
 
@@ -30,4 +30,8 @@ To read more about the project follow:
 	
 	
 	
-	# Andrei Elekes --- medium.com/@aele54  --- linkedin.com/in/andrei-elekes/
+## Follow me on   
+   
+**Linkedin:** linkedin.com/in/andrei-elekes/   
+**Medium:**   medium.com/@aele54    
+**Twitter:**  twitter.com/ElekesAndrei    
