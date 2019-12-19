@@ -12,19 +12,21 @@ The technologies I used so far are:
 
 To read more about the project follow:
 
-Intro Article
+Intro Article:  
   https://medium.com/@aele54/digitalisation-in-law-enforcement-32ec196dfb7d
 
-The Art of SSH: 
+The Art of SSH:  
   https://blog.usejournal.com/the-art-of-ssh-57221226d64b
   
-Why Delete is just another Fancy Word: 
+Why Delete is just another Fancy Word:  
   https://medium.com/coding-in-simple-english/why-delete-is-just-another-fancy-word-139aad10c04f
 
-Android NFC Made Easy: 
+Android NFC Made Easy:  
   https://medium.com/coding-in-simple-english/android-nfc-made-easy-b99721bfb88f
 
-Webscraping in Pyhton, NodeJS & Java: 
+Webscraping in Pyhton, NodeJS & Java:  
   https://medium.com/coding-in-simple-english/webscrape-with-java-nodejs-python-56117ed12b62
+	
+	
 	
 	# Andrei Elekes --- medium.com/@aele54  --- linkedin.com/in/andrei-elekes/
