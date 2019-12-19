@@ -231,11 +231,8 @@ public class SecondActivity extends AppCompatActivity {
             num = 384348358;
         }
 
-    //    getcarData("http://132.145.33.66:8080/RESTfulExample/tag/"+getDec(id));
 
-
-        String url = "http://132.145.33.66:8080/RESTfulExample/tag/"+num;
-
+    
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(this);
 
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {

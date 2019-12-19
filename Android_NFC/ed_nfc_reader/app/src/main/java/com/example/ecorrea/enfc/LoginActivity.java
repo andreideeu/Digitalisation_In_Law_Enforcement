@@ -50,7 +50,6 @@ public class LoginActivity extends AppCompatActivity {
 
        textView2.setText(getcurrentTime());
 
-      //  getcarData("http://132.145.33.66:8080/RESTfulExample/tag/384348358");
 
     }
 
